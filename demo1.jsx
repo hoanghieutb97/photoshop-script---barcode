@@ -1,0 +1,1 @@
+app.activeDocument.activeLayer = app.documents["GLLM"].layerSets["SPOT"].artLayers[(1).toString()];
